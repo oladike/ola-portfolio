@@ -1,7 +1,7 @@
 
 # Ola Dike — Data Analyst Portfolio
 
-Welcome to my portfolio! I am a Data Analyst with experience in Power BI, SQL, Excel, and BI reporting.  
+Welcome to my portfolio! I am a Data Analyst with experience in Power BI, SQL, Excel, Python for data analysis and BI reporting.  
 Below are selected projects showcasing my skills in data cleaning, modeling, visualization, and insights.
 
 ---
