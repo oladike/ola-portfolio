@@ -1,7 +1,7 @@
 
-# Ola Dike — Data Analyst | Business Intelligence Analyst | SQL Developer
-Transforming complex data into actionable business insights through
-SQL, Power BI, Excel, Python and Business Intelligence solutions.
+# Ola Dike 
+## Data Analyst | Business Intelligence Analyst | SQL Developer
+### Transforming complex data into actionable business insights through SQL, Power BI, Excel, Python and Business Intelligence solutions.
 
 I am a Data Analyst and Business Intelligence Professional with experience
 in SQL Server, Power BI, Excel, Python and enterprise reporting.
@@ -43,7 +43,8 @@ Excel
 Data Modeling
 
 Dashboard 
-<img width="4032" height="1507" alt="image" src="https://github.com/user-attachments/assets/938c14b9-7032-45c3-85d3-7923e76084eb" />
+<img width="4032" height="1507" alt="image" src="https://github.com/user-attachments/assets/97c51962-7400-451a-8ae2-c2ab184e45c2" />
+
 
 
 #
