@@ -10,9 +10,16 @@ My work focuses on data transformation, dashboard development,
 automation, reporting optimization and delivering insights that
 support business decision-making.
 
+### Featured Projects
+- FIDAP Plus Adoption & Engagement Dashboard
+- SMS Analytics Dashboard
+- SQL Reporting & Automation
+- Python Data Automation
+
+
 ---
 
-## FIDAP Plus Adoption & Engagement Dashboard
+## FIDAPP Plus Adoption & Engagement Dashboard
 ### Business Problem
 
 Management needed visibility into customer adoption levels, user demographics, geographic distribution, and platform engagement trends.
@@ -33,7 +40,7 @@ Using registration and user-profile data, I analyzed:
 - User demographic trends
 - Geographic concentration of users
 
-The data was cleaned, transformed, and modeled to provide a single source of truth for management reporting.
+The solution provided management with a centralized reporting platform for monitoring customer adoption, demographic trends, and geographic penetration of the FIDAPP Plus digital platform.
 
 Tools Used:
 - Power BI
@@ -41,6 +48,12 @@ Tools Used:
 - Power Query
 - Excel
 - Data Modeling
+
+### Business Value
+- Improved visibility into platform adoption.
+- Supported digital transformation initiatives.
+- Enabled data-driven management decisions.
+- Identified opportunities for customer engagement and awareness campaigns.
 
 ### Dashboard 
 <img width="769" height="445" alt="FIDAPP PLUS PG1" src="https://github.com/user-attachments/assets/a8de5939-c14a-4ce2-93ab-3770c647217e" />
@@ -67,37 +80,46 @@ The organization required insights into SMS delivery performance and campaign ef
 <img width="603" height="339" alt="SMS DASHBORD" src="https://github.com/user-attachments/assets/6e768ef5-264b-4cfa-9224-779dab259dd0" />
 
 ## SQL Reporting & Automation
-### Overview
-Developed SQL Server solutions to automate recurring operational and management reports.
+### Business Problem
+Recurring operational reports required significant manual effort and were prone to delays.
+
+### Solution
+Developed SQL Server reporting solutions using stored procedures, views, CTEs, and query optimization techniques to automate report generation and improve data accessibility.
 
 ### Key Contributions
-- Created stored procedures and automated reporting processes.
-- Optimized complex reporting queries.
-- Improved data extraction and report generation efficiency.
+- Automated recurring management reports.
+- Developed complex reporting queries.
+- Optimized report performance.
+- Created reusable stored procedures and views.
   
 ### Business Value
-- Reduced manual effort.
-- Improved report accuracy.
-- Accelerated report delivery.
+- Reduced manual report preparation.
+- Improved reporting accuracy.
+- Accelerated report delivery time.
 
 ## Python Data Automation
-### Overview
-Automated data processing, validation, and reporting tasks using Python.
+### Business Problem
+Manual data preparation and report consolidation activities consumed time and introduced potential errors.
+
+### Solution
+Developed Python scripts to automate data cleaning, validation, reconciliation, and report generation processes.
 
 ### Key Contributions
 - Automated Excel report consolidation.
-- Developed data quality validation scripts.
+- Built data quality validation checks.
+- Performed automated data transformations.
 - Streamlined recurring reporting activities.
-
+  
 ### Business Value
+- Reduced manual processing effort.
+- Improved data quality and consistency.
 - Increased reporting efficiency.
-- Improved data quality.
-- Reduced manual processing time.
 
 
 ---
 
 ## 📫 Contact
 - **Email:** oladike1995@gmail.com  
-- **LinkedIn:** www.linkedin.com/in/oladike  
+- **LinkedIn:** www.linkedin.com/in/oladike
+- **GitHub:** https://github.com/oladike 
 
