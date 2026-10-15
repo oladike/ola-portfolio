@@ -48,20 +48,52 @@ Tools Used:
 
 
 
+## SMS Analytics Dashboard
+### Business Problem
+The organization required insights into SMS delivery performance and campaign effectiveness.
 
+### Key Results
+- Monitored 947,725 SMS messages.
+- Achieved 585,043 successful deliveries.
+- Measured 62% delivery rate and 38% failure rate.
+  
+### Business Value
+- Improved communication monitoring.
+- Identified delivery challenges.
+- Supported campaign performance evaluation.
 
+### Dashboard
 
+<img width="603" height="339" alt="SMS DASHBORD" src="https://github.com/user-attachments/assets/6e768ef5-264b-4cfa-9224-779dab259dd0" />
 
+## SQL Reporting & Automation
+### Overview
+Developed SQL Server solutions to automate recurring operational and management reports.
 
----
+### Key Contributions
+- Created stored procedures and automated reporting processes.
+- Optimized complex reporting queries.
+- Improved data extraction and report generation efficiency.
+  
+### Business Value
+- Reduced manual effort.
+- Improved report accuracy.
+- Accelerated report delivery.
 
-##  Excel Projects
-### 2. User Behaviour Dashboard
-- Data cleaning  
-- Exploratory analysis  
-- Visualization  
+## Python Data Automation
+### Overview
+Automated data processing, validation, and reporting tasks using Python.
 
-#
+### Key Contributions
+- Automated Excel report consolidation.
+- Developed data quality validation scripts.
+- Streamlined recurring reporting activities.
+
+### Business Value
+- Increased reporting efficiency.
+- Improved data quality.
+- Reduced manual processing time.
+
 
 ---
 
