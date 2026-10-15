@@ -18,32 +18,33 @@ support business decision-making.
 Management needed visibility into customer adoption levels, user demographics, geographic distribution, and platform engagement trends.
 
 Without a centralized dashboard, management found it difficult to:
-Monitor registration growth
-Track adoption across states
-Understand user demographics
-Measure digital platform penetration
-Identify areas requiring marketing or awareness campaigns
-Analysis
+- Monitor registration growth
+- Track adoption across states
+- Understand user demographics
+- Measure digital platform penetration
+- Identify areas requiring marketing or awareness campaigns
+- Analysis
 
 Using registration and user-profile data, I analyzed:
-Total registrations
-Gender distribution
-State-wise adoption
-Sector participation
-User demographic trends
-Geographic concentration of users
+- Total registrations
+- Gender distribution
+- State-wise adoption
+- Sector participation
+- User demographic trends
+- Geographic concentration of users
 
 The data was cleaned, transformed, and modeled to provide a single source of truth for management reporting.
 
 Tools Used:
-Power BI
-DAX
-Power Query
-Excel
-Data Modeling
+- Power BI
+- DAX
+- Power Query
+- Excel
+- Data Modeling
 
 Dashboard 
-<img width="4032" height="1507" alt="image" src="https://github.com/user-attachments/assets/97c51962-7400-451a-8ae2-c2ab184e45c2" />
+<img width="4032" height="2154" alt="image" src="https://github.com/user-attachments/assets/ddeddd75-e6b7-4e13-9726-1c25bd460928" />
+
 
 
 
