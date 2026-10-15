@@ -3,8 +3,7 @@
 ## Data Analyst | Business Intelligence Analyst | SQL Developer
 ### Transforming complex data into actionable business insights through SQL, Power BI, Excel, Python and Business Intelligence solutions.
 
-I am a Data Analyst and Business Intelligence Professional with experience
-in SQL Server, Power BI, Excel, Python and enterprise reporting.
+Experienced Data Analyst and Business Intelligence Professional with over 4 years of professional experience supporting enterprise reporting, dashboard development, SQL automation, and data-driven decision-making.
 
 My work focuses on data transformation, dashboard development,
 automation, reporting optimization and delivering insights that
