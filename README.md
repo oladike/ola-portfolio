@@ -42,14 +42,16 @@ Tools Used:
 - Excel
 - Data Modeling
 
-Dashboard 
+### Dashboard 
 <img width="769" height="445" alt="FIDAPP PLUS PG1" src="https://github.com/user-attachments/assets/a8de5939-c14a-4ce2-93ab-3770c647217e" />
+<img width="578" height="328" alt="FIDAPP PLUS PG2" src="https://github.com/user-attachments/assets/00c69ddf-d77a-4e1e-a592-957b5411559c" />
 
 
 
 
 
-#
+
+
 
 ---
 
